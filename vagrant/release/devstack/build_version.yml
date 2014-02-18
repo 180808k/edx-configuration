@@ -11,7 +11,7 @@
 # github.com account names / repo owners:
 #
 OPEN_EDX: edx    # Open edX repos
-GIT_ACCT: yarko  # your github acct (your development repos), or edx
+GIT_ACCT: apigee  # your github acct (your development repos), or edx
 # Theme repo;
 #  Stanford-Online is the Canonical theme;
 #  start there in developing a theme.
