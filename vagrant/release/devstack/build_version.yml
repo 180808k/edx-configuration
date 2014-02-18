@@ -15,7 +15,7 @@ GIT_ACCT: apigee  # your github acct (your development repos), or edx
 # Theme repo;
 #  Stanford-Online is the Canonical theme;
 #  start there in developing a theme.
-THEME_ACCT: Stanford-Online   # Theme repos
+THEME_ACCT: apigee  # Theme repos
 
 ##
 # source repositories and versions
